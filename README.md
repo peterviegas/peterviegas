@@ -1,6 +1,6 @@
 ### Hi I am Peter Viegas
-- 🔭 I’m currently working on Sales portal design
-- 🌱 I’m currently learning Angular, React, Spring, Java, C#, Python
+- 🔭 I’m currently working on Sales portal design using Angular and Spring Boot
+- 🌱 I’m currently learning React, Java, Python
 - 👯 I’m looking to collaborate on with the community with open source
 - 🤔 I’m looking for help with Stackoverflow, Tek-Tips and Tech Support Guy
 - 💬 Ask me about Project Manager
