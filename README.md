@@ -1,12 +1,23 @@
 ### Hi I am Peter Viegas
-- 🔭 I’m currently working on Sales portal design using Angular and Spring Boot
-- 🌱 I’m currently learning React, Java, Python
+- 🔭 Currently focused on crafting a Sales Portal using Angular and Spring Boot
+- 🌱 I’m currently learning React, Python
 - 👯 I’m looking to collaborate on with the community with open source
 - 🤔 I’m looking for help with Stackoverflow, Tek-Tips and Tech Support Guy
 - 💬 Ask me about Project Manager
 - 📫 How to reach me: peterviegas@outlook.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
+
+  <!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 Currently living in England, I have experience with Angular, HTML, CSS, Node.js, JavaScript, TypeScript, C#, C, Java, Spring Boot, SQL, MySQL, Power BI, Azure, and Project Management. Additionally, I was a programming language professor for 5 years at a technical college in Brazil.
+
+  - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+
 
 <div align="center">
   <a href="https://github.com/peterviegas">
