@@ -1,8 +1,8 @@
 ### Hi I am Peter Viegas
-- 🔭 Currently focused on crafting a Sales Portal using Angular and Spring Boot
-- 🌱 I’m currently learning React, Python
-- 👯 I’m looking to collaborate on with the community with open source
-- 🤔 I’m looking for help with Stackoverflow, Tek-Tips and Tech Support Guy
+- 🔭 Currently focused on crafting a Sales Portal using Angular and Spring Boot.
+- 🌱 I’m currently learning React, Python and Go.
+- 👯 I’m looking to collaborate on with the community with open source.
+- 🤔 I'm looking for a new job opportunity as a developer: full-stack, front-end, or back-end.
 - 💬 Ask me about Project Manager
 - 📫 How to reach me: peterviegas@outlook.com
 - 😄 Pronouns: he/his
