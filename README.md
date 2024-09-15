@@ -53,6 +53,8 @@
                                                                        
 </div>
 
+![](https://komarev.com/ghpvc/?username=peterviegas&color=9745F5)
+
 
 ### Portfolio:
 - [Spring Boot - Creation of a REST API using HTTP protocol in the REST](https://github.com/peterviegas/helpdesk-backend)
