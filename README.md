@@ -1,11 +1,20 @@
-### Hi, I am Peter Viegas
-- 🔭 Currently focused on crafting a Sales Portal using Angular and Spring Boot.
-- 🌱 I’m currently learning React, Python, and Go.
-- 👯 I’m looking to collaborate with the community through open-source projects.
-- 🤔 I'm actively seeking new job opportunities as a full-stack, front-end, or back-end developer.
-- 📫 You can reach me at: peterviegas@outlook.com
-- 😄 Pronouns: he/his
+# <samp>Peter Viegas</samp>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/peterviegas/)](https://www.linkedin.com/in/mupezzuol/)
+
+<samp>I'm Peter Viegas, I am an EU citizen with the right to work in England, and I've always been passionate about solving problems with technology and developing innovative solutions. I started my first university course in technology and have never stopped learning.
+
+<samp>Before relocating to the United Kingdom, I lived in Brazil, where I participated in volleyball tournaments. Nowadays, in my free time, I enjoy cycling with my family.
+ 
+
+- 🔭 <samp>Currently focused on crafting a Sales Portal using Angular and Spring Boot.
+- 🌱 <samp>Currently learning Python and Go.
+- 👯 <samp>Looking to collaborate with the community through open-source projects.
+- 🤔 <samp>Actively seeking new job opportunities as a back-end developer.
+- 📫 <samp>You can reach me at: peterviegas@outlook.com
+- 😄 <samp>Pronouns: he/his
 - ⚡ Fun fact: ...
+
 
 <details>
   <summary>👨‍💻 More about me</summary>
