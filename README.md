@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Python, and Go.
 - 👯 I’m looking to collaborate with the community through open-source projects.
 - 🤔 I'm actively seeking new job opportunities as a full-stack, front-end, or back-end developer.
-- 💬 Feel free to ask me about Project Management.
 - 📫 You can reach me at: peterviegas@outlook.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
