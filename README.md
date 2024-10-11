@@ -2,31 +2,39 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/peterviegas/)](https://www.linkedin.com/in/mupezzuol/)
 
-<samp>I'm Peter Viegas, I am an EU citizen with the right to work in England, and I've always been passionate about solving problems with technology and developing innovative solutions. I started my first university course in technology and have never stopped learning.
+<samp>I'm Peter Viegas, an EU citizen with the right to work in England, and I've always been passionate about solving problems with technology and developing innovative solutions. I started my first university course in technology and have never stopped learning.
 
-<samp>Before relocating to the United Kingdom, I lived in Brazil, where I participated in volleyball tournaments. Nowadays, in my free time, I enjoy cycling with my family.
+<samp>Before relocating to the United Kingdom, I lived in Brazil, where I worked on large IT projects. In my free time, I enjoy cycling with my family and staying active.
+
  
 
-- 🔭 <samp>Currently focused on crafting a Sales Portal using Angular and Spring Boot.
-- 🌱 <samp>Currently learning Python and Go.
+- 🔭 <samp>Currently working on an Online Sales Portal using Spring Boot, Angular, Azure, and GitHub for version control.
+- 🌱 <samp>Currently expanding my skills by learning Python, Go, and further enhancing my expertise in Spring Boot.
 - 👯 <samp>Looking to collaborate with the community through open-source projects.
 - 🤔 <samp>Actively seeking new job opportunities as a back-end developer.
 - 📫 <samp>You can reach me at: peterviegas@outlook.com
 - 😄 <samp>Pronouns: he/his
-- ⚡ Fun fact: ...
+- ⚡ <samp>Fun fact: I used to compete in volleyball tournaments back in Brazil.
 
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Currently living in England, I have experience with Angular, HTML, CSS, Node.js, JavaScript, TypeScript, C#, C, Java, Spring Boot, SQL, MySQL, Power BI, Azure, and Project Management. Additionally, I taught programming languages for 5 years at a technical college in Brazil.
+#### 🛠 Tech Stack:
 
-  - ⚡ I enjoy reading books, watching movies, and playing games! I believe that personal hobbies can enhance our problem-solving and perception of the world. \o/
-</details>
+<samp>**Proficient:**
+- <samp>Spring Boot, Node.js, JWT, Angular, React, TypeScript, JavaScript, HTML, CSS
+- <samp>Microsoft SQL, Oracle, MySQL, PL/SQL, PostgreSQL
+- <samp>GitHub, MVC, Agile Methodology (Scrum / Lean), Mocking, Test-Driven Development, Jest, Supertest
+
+<samp>**Learning:**
+- <samp>Go, Python, Microsoft Azure
+
+<samp>**Exposure:**
+- <samp>C, C#, C++, Java, Delphi, Assembly, Shell Script, ASP.Net, Cobol, Photoshop, NGNIX, Docker, Business Intelligence, Power BI
 
 <div align="center">
   <a href="https://github.com/peterviegas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterviegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=$GH_TOKEN"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterviegas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
