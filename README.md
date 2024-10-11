@@ -1,6 +1,9 @@
 # <samp>Peter Viegas</samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/peterviegas/)](https://www.linkedin.com/in/mupezzuol/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/peterviegas/)](https://www.linkedin.com/in/peterviegas/)
+
+ <a href = "mailto:peterviegas@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/peterviegas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <samp>I'm Peter Viegas, an EU citizen with the right to work in England, and I've always been passionate about solving problems with technology and developing innovative solutions. I started my first university course in technology and have never stopped learning.
 
