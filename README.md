@@ -36,12 +36,12 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/peterviegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterviegas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div style="display: inline_block"><br>
+   
+<div style="display: inline_block">
   <img align="center" alt="Peter-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Peter-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Peter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -70,9 +70,4 @@
 
 ![](https://komarev.com/ghpvc/?username=peterviegas&color=9745F5)
 
-### Portfolio:
-- [Spring Boot - Creation of a REST API using HTTP protocol in the REST](https://github.com/peterviegas/helpdesk-backend)
-- [Angular - Help Desk - Using Spring Boot backend](https://github.com/peterviegas/helpdesk-front)
-- [React - Group full-stack application for Tech Returners](https://github.com/peterviegas/tr-omdb-api-fullstack)
-- [React - The World of Disney React App](https://github.com/peterviegas/lm-code-react-hooks-api-calls-disney)
-- [TDD - Using JEST - Explaining Test-Driven Development](https://github.com/peterviegas/js-jest-tdd-number-roman)
+
