@@ -16,26 +16,28 @@
 - 😄 <samp>Pronouns: he/his
 - ⚡ <samp>Fun fact: I used to compete in volleyball tournaments back in Brazil.
 
-
 <details>
   <summary>👨‍💻 More about me</summary>
 
-#### 🛠 Tech Stack:
+  > #### 🛠 Tech Stack:
 
-<samp>**Proficient:**
-- <samp>Spring Boot, Node.js, JWT, Angular, React, TypeScript, JavaScript, HTML, CSS
-- <samp>Microsoft SQL, Oracle, MySQL, PL/SQL, PostgreSQL
-- <samp>GitHub, MVC, Agile Methodology (Scrum / Lean), Mocking, Test-Driven Development, Jest, Supertest
+  > - <samp>**Proficient:**
+  >   - Spring Boot, Node.js, JWT, Angular, React, TypeScript, JavaScript, HTML, CSS
+  >   - Microsoft SQL, Oracle, MySQL, PL/SQL, PostgreSQL
+  >   - GitHub, MVC, Agile Methodology (Scrum / Lean), Mocking, Test-Driven Development, Jest, Supertest
 
-<samp>**Learning:**
-- <samp>Go, Python, Microsoft Azure
+  > - <samp>**Learning:**
+  >   - Go, Python, Microsoft Azure
 
-<samp>**Exposure:**
-- <samp>C, C#, C++, Java, Delphi, Assembly, Shell Script, ASP.Net, Cobol, Photoshop, NGNIX, Docker, Business Intelligence, Power BI
+  > - <samp>**Exposure:**
+  >   - C, C#, C++, Java, Delphi, Assembly, Shell Script, ASP.Net, Cobol, Photoshop, NGNIX, Docker, Business Intelligence, Power BI
+
+</details>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/peterviegas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterviegas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=$GH_TOKEN"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterviegas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
