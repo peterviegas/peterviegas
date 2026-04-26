@@ -1,61 +1,47 @@
-# 👨‍💻 Peter Viegas
+# <samp>Peter Viegas</samp>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-071A2C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterviegas/)
-[![Outlook](https://img.shields.io/badge/Email-000000?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:peterviegas@outlook.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/peterviegas/)](https://www.linkedin.com/in/peterviegas/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&color=000000)](mailto:peterviegas@outlook.com)
 
----
+<samp>I'm Peter Viegas, an EU citizen with the right to work in England, and I've always been passionate about solving problems with technology and developing innovative solutions. I started my first university course in technology and have never stopped learning.
 
-## 👋 About Me
+<samp>Before relocating to the United Kingdom, I lived in Brazil, where I worked on large IT projects. In my free time, I enjoy cycling with my family and staying active.
 
-I'm Peter Viegas, a Software Engineer and EU citizen with the right to work in the UK.
+ 
 
-I have a strong passion for solving problems with technology and building scalable solutions.  
-My journey started during university, and I have never stopped learning since then.
+- 🔭 <samp>Currently working on an Online Sales Portal using Spring Boot, Angular, Azure, and GitHub for version control.
+- 🌱 <samp>Currently expanding my skills by learning Python, Go, and further enhancing my expertise in Spring Boot.
+- 👯 <samp>Looking to collaborate with the community through open-source projects.
+- 🤔 <samp>Actively seeking new job opportunities as a back-end developer.
+- 📫 <samp>You can reach me at: peterviegas@outlook.com
+- 😄 <samp>Pronouns: he/his
+- ⚡ <samp>Fun fact: I used to compete in volleyball tournaments back in Brazil.
 
-Before relocating to the UK, I worked in Brazil on large-scale IT projects across multiple industries.
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-🚴 In my free time, I enjoy cycling with my family and staying active.
+  > #### 🛠 Tech Stack:
 
----
+  > - <samp>**Proficient:**
+  >   - Java, Spring Boot, Node.js, JWT, Angular, React Native, TypeScript, JavaScript, HTML, CSS
+  >   - Microsoft SQL, Oracle, MySQL, PL/SQL, PostgreSQL
+  >   - GitHub, MVC, Agile Methodology (Scrum / Lean), Mocking, Test-Driven Development, Jest, Supertest
+  >   - Microsoft Azure
+  >   - Business Intelligence, Power BI
 
-## 🚀 Current Focus
+  > - <samp>**Learning:**
+  >   - AWS, kotlin, Go
 
-- 🔭 Working on an Online Sales Portal using **Spring Boot, Angular, Azure**
-- 🌱 Learning **Python, Go**, and improving my backend expertise
-- 👯 Looking to collaborate on **open-source projects**
-- 💼 Actively seeking **backend opportunities**
-- 📫 Contact: **peterviegas@outlook.com**
+  > - <samp>**Exposure:**
+  >   - React, C, C#, C++, Python Delphi, Assembly, Shell Script, ASP.Net, Cobol, Photoshop, NGNIX, Docker
 
----
+</details>
 
-## 🛠 Tech Stack
+<br>
 
-### 💪 Proficient
-- **Backend:** Spring Boot, Node.js, JWT  
-- **Frontend:** Angular, React, TypeScript, JavaScript  
-- **Database:** SQL Server, Oracle, MySQL, PostgreSQL
-- **Clould:** Microsoft Azure  
-- **Others:** GitHub, MVC, Agile (Scrum/Lean), TDD, Jest, Supertest  
-
-### 📚 Currently Learning
-- AWS
-- kotlin
-- Go  
-
-
-### 🔍 Exposure
-- C, C++, C#, Java, Delphi, Pyton
-- Shell Script, ASP.NET, Cobol  
-- Docker, Nginx, Power BI
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterviegas&layout=compact&langs_count=7&theme=dark"/>
-
+<div align="left">
+  <a href="https://github.com/peterviegas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterviegas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
